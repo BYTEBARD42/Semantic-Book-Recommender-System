@@ -1,1 +1,2 @@
 # Semantic-Book-Recommender-System
+this project shows how to create a smart book recommendation system using Python and powerful language models. It uses OpenAI’s models and LangChain to turn book descriptions into numbers, making it easy to match similar books based on their content. The app, built with Gradio, provides an interactive interface where users can find new books based on their preferences
